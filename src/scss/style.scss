@@ -1,0 +1,22 @@
+@import "reset";
+@import url('https://fonts.googleapis.com/css?family=Bree+Serif|Zilla+Slab');
+@import "variables";
+@import "responsive-utils";
+@import "html-tags";
+@import "components/header";
+@import "components/songs-list";
+@import "components/song-form";
+@import "components/container";
+@import "components/portada";
+@import "components/footer";
+@import "components/ranking";
+
+.audio{
+    display: block;
+    padding: 30px;
+    padding-bottom: 0px;
+    margin: 50px;
+    margin-bottom: 0px;
+    visibility: visible;
+}
+
